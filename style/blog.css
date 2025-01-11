@@ -91,6 +91,7 @@
         padding-left: 25px;
         padding-right: 25px;
         padding-bottom: 25px;
+        border-radius: 8px;
 
       }
       .tc-btn{
@@ -100,6 +101,7 @@
         border-radius: 3px;
         height: 30px;
         width: 100px;
+        
       }
       .tcngy-2{
         background-color: #C6E4D6;
@@ -107,6 +109,7 @@
         padding-left: 25px;
         padding-right: 25px;
         padding-bottom: 25px;
+        border-radius: 8px;
       }
       .tc-btn-2{
         color: white;
@@ -123,6 +126,7 @@
         padding-left: 25px;
         padding-right: 25px;
         padding-bottom: 25px;
+        border-radius: 8px;
       }
       .tc-btn-3{
         color: white;
@@ -132,4 +136,91 @@
         height: 30px;
         width: 100px;
 
+      }
+
+      .end-title{
+        font-size: 35px;
+        font-weight: bold;
+        margin-left: 100px;
+        padding-top: 30px;
+      }
+      .end-description{ 
+        margin-left: 100px;
+        padding-top:10px ;
+
+      }
+
+      .end-bnner{
+        display: flex;
+        justify-content: space-between;
+       
+        
+      }
+      
+      .mtitle{
+        font-size: 30px;
+      }
+        
+      .imagee{
+    
+        width: 410px;
+        height: 300px;
+        margin-left: 150px;
+        padding-top: 50px;
+       
+       
+      }
+
+      .titlee{
+        margin-right: 100px;
+      }
+      .bnnr{
+        padding-top: 50px;
+      }
+
+      .btn{
+        width: 100px;
+        height: 40px;
+        color: white;
+        background-color: #006A50;
+        border: none;
+        border-radius: 10px;
+       
+      }
+
+      .bnr{ 
+        display: flex;
+        justify-content: space-between;
+        padding-top: 60px;
+      }
+
+      .ttit{
+        font-size: 30px;
+        font-weight: bold;
+        margin-left: 100px;
+      }
+      .iim{
+        margin-left: 100px;
+      }
+      .sub-tt{
+        margin-left: 100px;
+      }
+
+      .descri{
+        margin-left: 100px;
+      }
+      .bbtn{
+        margin-left: 100px;
+        width: 100px;
+        height: 40px;
+        color: white;
+        background-color: #006A50;
+        border: none;
+        border-radius: 10px;
+      }
+      .iimg{
+        width: 410px;
+        height: 300px;
+        margin-right: 100px;
+        padding-top: 50px;
       }
