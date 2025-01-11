@@ -224,3 +224,78 @@
         margin-right: 100px;
         padding-top: 50px;
       }
+      .ft-title{
+        text-align: center;
+        font-size: 30px;
+      }
+      .ft-des{
+        text-align: center;
+      }
+ 
+  /*     ==section    ==== */
+      .projects {
+        width: 1200px;
+        padding-left: 10;
+        padding-right: 5;
+        background: #fff;
+        margin-left: 100px;
+      }
+      
+      .projects h2 {
+        font-size: 10px;
+        text-align: center;
+        margin-bottom: 30px;
+      }
+      
+      .project-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+      }
+      
+      #takk{
+        background-color:#C6E4D6;
+      }
+      
+      
+      .project-card {
+        border-radius: 5px;
+        font-size: 30px;
+        width: 250px;
+        height: 130px;
+        padding: 15px;
+        color: #282222;
+        background: white;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        text-align: center;
+        box-shadow: 0 0 10px rgba(116, 2, 2, 0.144);
+      }
+
+
+      .button{
+        width: 1000px;
+        height: 62px;
+        text-align: center;
+       padding-left: 00px;
+       margin-left: 200px;
+       margin-right: 50px;
+       background-color: #e6ebf2;
+       border: none;
+       border-radius: 20pxs;
+       
+   }
+   .btn-main{
+    width: 155px;
+    height: 60px;
+    margin-left: 620px;
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+    background-color: #006A50;
+    border: none;
+    border-radius: 10px;
+
+
+    
+   }
